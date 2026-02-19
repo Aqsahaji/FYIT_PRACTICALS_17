@@ -1,0 +1,88 @@
+Page1:  
+<html>
+<head><title>Page_1</title>
+</head>
+ 
+<body>
+<h1> <center> Welcome to Page 1 </center></h1><hr>
+<b> <a href="Page2.html" target="_blank"> Go to Page 2 </a> </b> <br>
+<b> <a href="Page3.html" target="_blank"> Go to Page 3 </a> </b>
+ 
+</body>
+</html>
+
+
+Page2:
+<html>
+<head><title>Page_2</title>
+</head>
+ 
+<body>
+<h1> <center> Welcome to Page 2 </center> </h1><hr>
+<b> <a href="Page1.html" target="_blank"> Go to Page 1 </a> </b> <br>
+<b> <a href="Page3.html" target="_blank">Go to Page 3 </a> </b>
+ 
+</body>
+</html>
+
+Page3:
+<html>
+<head><title>Page_3</title>
+</head>
+ 
+<body>
+<h1><center> Welcome to Page 3 </center></h1><hr>
+<b><a href="Page1.html" target="_blank"> Go to Page 1 </a> </b> <br>
+<b><a href="Page2.html" target="_blank"> Go to Page 2 </a></b>
+ 
+</body>
+</html>
+
+
+<html>
+<head><title>Web Page</title>
+</head>
+<script>
+setTimeout (function() 
+           {window.location.href="page2.html";
+            },3000);
+</script>
+<body>
+<h1> <center> Welcome to Page 1 </center></h1><hr>
+<b> <a href="Page2.html" target="_blank"> Go to Page 2 </a> </b> <br>
+<b> <a href="Page3.html" target="_blank"> Go to Page 3 </a> </b>
+ 
+</body>
+</html>
+
+
+
+
+Code:
+<html>
+<head><title>Email Hyperlink</title></head>
+ 
+<body>
+<h1><center> Contact Us </center></h1><hr>
+ 
+<p>
+Click the link below to send us an email:
+</p>
+ 
+<b>
+<a href="mailto:XYZ17@gmail.com"> Send Email </a>
+</b>
+ 
+</body>
+</html>	
+
+
+ 
+
+
+
+
+
+
+
+
